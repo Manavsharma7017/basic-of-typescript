@@ -10,6 +10,7 @@ function greet(a:many):void{
     console.log(a)
 
 }
+greet(1)
 greet("1")
 
 type Employee2 = {
