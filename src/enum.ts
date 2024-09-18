@@ -11,7 +11,7 @@ function dosomething(keypress:man):void{
 
 dosomething(man.rigth)
 enum man2{
-    up,
+    up=1,
     down,
     left,
     rigth
